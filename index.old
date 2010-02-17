@@ -1,0 +1,78 @@
+<html>
+<head>
+<title>String Validation</title>
+</head>
+
+<body>
+<?php
+
+$int = "1234567890";
+$email = "christer.edwards+spam@gmail.com";
+$ip = "126.78.7.112";
+$url = "https://i";
+$float = "12.99";
+$bool = "yes";
+$number = "1a2b3c4d5e";
+
+if(!filter_var($int, FILTER_VALIDATE_INT)) {
+    print "Integer is not valid";
+} else {
+    print "Integer is valid";
+}
+
+print "<br />";
+print "<br />";
+
+if(!filter_var($email, FILTER_VALIDATE_EMAIL)) {
+    print "Email is not valid";
+} else {
+    print "Email is valid";
+}
+
+print "<br />";
+print "<br />";
+
+if(!filter_var($ip, FILTER_VALIDATE_IP)) {
+    print "ip is not valid";
+} else {
+    print "ip is valid";
+}
+
+print "<br />";
+print "<br />";
+
+if(!filter_var($url, FILTER_VALIDATE_URL, FILTER_FLAG_HOST_REQUIRED)) {
+    print "url is not valid";
+} else {
+    print "url is valid";
+}
+
+print "<br />";
+print "<br />";
+
+if(!filter_var($float, FILTER_VALIDATE_FLOAT)) {
+    print "float is not valid";
+} else {
+    print "float is valid";
+}
+
+print "<br />";
+print "<br />";
+
+if(!filter_var($bool, FILTER_VALIDATE_BOOLEAN)) {
+    print "bool is not valid";
+} else {
+    print "bool is valid";
+}
+
+print "<br />";
+print "<br />";
+
+print $number;
+print "<br />";
+print "<br />";
+var_dump(filter_var($number, FILTER_SANITIZE_NUMBER_INT))
+
+?>
+</body>
+</html>
