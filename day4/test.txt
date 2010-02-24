@@ -1,0 +1,11 @@
+This is a test of the emergency broadcast system. This is only a test.
+
+BEEEEEEEEEEEEEEEEEEEEEEEEEEE...EEEEP!
+
+This is a test of the emergency broadcast system. The broadcasters of
+your area, in voluntary cooperation with Federal, State, and Local
+authorities, have developed this system to keep you informed in the
+event of an emergency. If this had been an actual emergency, the
+attention signal you just heard would have been followed by news and
+instructions. This system serves the ((city/county)) area. This
+concludes this test of the emergency broadcast system.

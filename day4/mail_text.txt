@@ -1,0 +1,8 @@
+This is an example email message including only plain text.
+
+This is the preferred way to send mail, as it is compatible with *all*
+mail clients and saves on bandwidth and disk space. HTML email on the
+other hand takes more space is can have incompatibilities.
+
+Thank you,
+Management
