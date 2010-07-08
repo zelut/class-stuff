@@ -18,3 +18,6 @@ mixed-mode.php
 include.php
  included_file.php
 functions.php
+parameters.php
+parameters-argv.php
+recursive.php
