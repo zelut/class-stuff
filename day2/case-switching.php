@@ -1,6 +1,7 @@
 <?php
-    $Name = 'Sally';
-    switch($Name) {
+    $name = 'Sally';
+
+    switch($name) {
     case "Jim":
         print "Your name is Jim\n";
         break;
