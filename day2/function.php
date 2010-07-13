@@ -6,8 +6,8 @@
     
     function doMultiplication() {
         // local scope: 500
-        $a = 50;
-        $b = 10;
+        //$a = 50;
+        //$b = 10;
 
         print $a * $b ."\n";
     }

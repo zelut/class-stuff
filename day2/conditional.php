@@ -1,5 +1,5 @@
 <?php
-    $salary = 1500000;
+    $salary = 15000;
 
     if ($salary > 100000) {
         print "I'll take it!\n";

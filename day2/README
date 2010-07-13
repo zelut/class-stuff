@@ -20,4 +20,14 @@ include.php
 functions.php
 parameters.php
 parameters-argv.php
+default-parameter.php
 recursive.php
+
+== VARIABLES & CONSTANTS ==
+strings.php
+type-conversion-1.php
+type-conversion-2.php
+type-conversion-3.php
+constants.php
+array.php
+array-cursor.php

@@ -1,6 +1,6 @@
 <?php
 
-//$variables = "something random";
+$variables = "something random";
 
 $mystring = <<<ENDOFTHELINE
     This is a heredoc. I can do whatever I like in here.

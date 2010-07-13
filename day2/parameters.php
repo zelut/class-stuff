@@ -5,6 +5,6 @@ function doMultiplication($a, $b) {
     return $total;
 }
 
-print doMultiplication(99, 512) ."\n";
+print doMultiplication(10, 50) ."\n";
 
 ?>
