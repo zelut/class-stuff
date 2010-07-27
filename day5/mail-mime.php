@@ -9,11 +9,12 @@ $html = file_get_contents("mail_html.html");
  
 $message->setTXTBody($text);
 $message->setHTMLBody($html);
+$message->addAttachment("example.txt");
 $body = $message->get();
-$extraheaders = array("From"=>"sender@domain.tld", "Subject"=>"My Subject");
+$extraheaders = array("From"=>"noreply@zelut.org", "Subject"=>"Test Email");
 $headers = $message->headers($extraheaders);
  
 $mail = Mail::factory("mail");
-$mail->send("recipient@domain.tld", $headers, $body);
+$mail->send("christer.edwards@gmail.com", $headers, $body);
 
 ?>
