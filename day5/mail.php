@@ -1,3 +1,3 @@
 <?php
-    mail("user@domain.tld","Subject","Email Contents");
+    mail("christer.edwards@gmail.com","Test Email","Email Contents");
 ?>
