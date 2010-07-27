@@ -7,6 +7,7 @@
         <label for='username'>
         <b>username:</b>
             <input type="text" name="username" size="20" class='f-name' tabindex=1 /><br />
+        </label>
 
         <label for='password'>
         <b>password:</b>
@@ -14,9 +15,9 @@
         </label>
 
         <div class='f-submit-wrap'>
-        <input type="submit" value="Submit">
+            <input type="submit" value="Submit">
         </div>
 
-        </fieldset>
+    </fieldset>
 
 </form>

@@ -1,4 +1,40 @@
+== OPERATORS ==
 http://xkcd.com/198/
 
+addition.php
+subtraction.php
+multiplication.php
+division.php
+modulous.php
+short-addition.php
+short-subtraction.php
+short-multiplication.php
+short-division.php
+assignment.php
+string.php
+equals.php
+identical.php
+not-equal.php
+not-identical.php
+less-than.php
+greater-than.php
+less-than-or-equal.php
+greater-than-or-equal.php
+increment.php
+ternary.php
+/srv/http/execution.php
 
+== HTML FORMS ==
 http://xkcd.com/512/
+form.php
+handler.php
+handler2.php
+
+login.php
+auth.php
+
+longform.php
+someform.php
+
+== SECURITY ==
+SSL lab

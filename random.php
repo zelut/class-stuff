@@ -1,7 +1,7 @@
 <?php
 
-$random = rand(0, 3);
+$random = rand(0, 100);
+
+print $random ."\n"; 
 
 ?>
-
-<p>star<?php print $random ?></p>

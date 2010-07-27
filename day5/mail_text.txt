@@ -1,0 +1,8 @@
+This is the contents of a plain-text email.
+
+This has no fancy formatting, graphics or other styling.
+
+This is the preferred method of sending email.
+
+Sincerely,
+Opinionated Instructor
