@@ -1,8 +1,8 @@
 <?php
 
-$address = "user@domain.tld";
+$address = "christer.edwards@gmail.com";
 $subject = "Email Subject";
-$content = "Email Content";
+$content = "Email Contents";
 
 mail($address, $subject, $content);
 
