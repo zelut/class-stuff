@@ -6,3 +6,10 @@ http://xkcd.com/538/
 http://xkcd.com/307/
 mail.php
 mail2.php
+mime.php
+ o file
+pear-mail.php
+mail-mime.php
+ o mail_html.html
+ o mail_text.txt
+attachments.php
