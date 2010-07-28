@@ -1,0 +1,5 @@
+Thank you for attending class today.
+
+To learn more about git, please use this great resource: http://progit.org/book/
+
+Christer
