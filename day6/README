@@ -1,0 +1,15 @@
+http://xkcd.com/612/
+readfile.php
+ o test.txt
+file-get-contents.php
+file.php
+fopen.php
+ o kinds_of_flowers.txt
+fread.php
+ o VERY_BIG_FILE
+fread2.php
+ o data.zip
+fgets.php
+
+http://xkcd.com/131/
+
