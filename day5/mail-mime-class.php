@@ -15,6 +15,6 @@ $extraheaders = array("From"=>"christer.edwards@gmail.com", "Subject"=>"Git Chea
 $headers = $message->headers($extraheaders);
  
 $mail = Mail::factory("mail");
-$mail->send("dolson@utahsbr.edu,bhosie@utahsbr.edu", $headers, $body);
+$mail->send("christer.edwards@ubuntu.com", $headers, $body);
 
 ?>

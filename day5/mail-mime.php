@@ -9,7 +9,7 @@ $html = file_get_contents("mail_html.html");
  
 $message->setTXTBody($text);
 $message->setHTMLBody($html);
-$message->addAttachment("example.txt");
+$message->addAttachment("git-cheat-sheet.pdf");
 $body = $message->get();
 $extraheaders = array("From"=>"noreply@zelut.org", "Subject"=>"Test Email");
 $headers = $message->headers($extraheaders);
