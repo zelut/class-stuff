@@ -1,0 +1,159 @@
+kernel: ata4.01: failed to resume link (SControl 0)
+kernel: ata4.01: failed to resume link (SControl 0)
+kernel: sd 4:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 4:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 4:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 5:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 5:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 5:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 6:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 6:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 6:0:0:0: [sdb] Assuming drive cache: write through
+kernel: hub 6-0:1.0: port 2 disabled by hub (EMI?), re-enabling...
+kernel: ata4.01: failed to resume link (SControl 0)
+kernel: ata4.01: failed to resume link (SControl 0)
+gnome-screensaver-dialog: gkr-pam: the password for the login keyring was invalid.
+kernel: ata4.01: failed to resume link (SControl 0)
+kernel: ata4.01: failed to resume link (SControl 0)
+kernel: sd 7:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 7:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 7:0:0:0: [sdb] Assuming drive cache: write through
+kernel: ata4.01: failed to resume link (SControl 0)
+sSMTP[8478]: Unable to connect to mail.part.net:25
+sSMTP[8478]: Cannot open mail.part.net:25
+sSMTP[12002]: Unable to connect to mail.part.net:25
+sSMTP[12002]: Cannot open mail.part.net:25
+NetworkManager: user_connection_updated_cb: assertion `old_connection != NULL' failed
+sSMTP[12308]: RCPT TO:<christer.edwards@gmail.com> (450 4.7.1 <daphne.part.net>: Helo command rejected: Host not found)
+sSMTP[12467]: RCPT TO:<christer.edwards@gmail.com> (450 4.7.1 <daphne.part.net>: Helo command rejected: Host not found)
+sSMTP[12596]: RCPT TO:<christer.edwards@gmail.com> (554 5.7.1 <christer.edwards@gmail.com>: Relay access denied)
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[4531]: dhcpcd not running
+dhcpcd[4537]: dhcpcd not running
+dhcpcd[4544]: dhcpcd not running
+dhcpcd[6306]: dhcpcd not running
+dhcpcd[6311]: dhcpcd not running
+dhcpcd[6317]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[6501]: dhcpcd not running
+dhcpcd[6507]: dhcpcd not running
+dhcpcd[6532]: dhcpcd not running
+dhcpcd[6538]: dhcpcd not running
+dhcpcd[6545]: dhcpcd not running
+dhcpcd[11218]: dhcpcd not running
+dhcpcd[11223]: dhcpcd not running
+dhcpcd[11229]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[11412]: dhcpcd not running
+dhcpcd[11447]: dhcpcd not running
+dhcpcd[11454]: dhcpcd not running
+kernel: hub 6-0:1.0: port 2 disabled by hub (EMI?), re-enabling...
+dhcpcd[21826]: dhcpcd not running
+dhcpcd[21844]: dhcpcd not running
+dhcpcd[21850]: dhcpcd not running
+dhcpcd[21856]: dhcpcd not running
+dhcpcd[21861]: dhcpcd not running
+dhcpcd[21867]: dhcpcd not running
+dhcpcd[21873]: dhcpcd not running
+dhcpcd[21879]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[21950]: timed out
+dhcpcd[22072]: dhcpcd not running
+dhcpcd[22088]: dhcpcd not running
+dhcpcd[22158]: dhcpcd not running
+dhcpcd[22164]: dhcpcd not running
+dhcpcd[22171]: dhcpcd not running
+dhcpcd[22180]: timed out
+dhcpcd[22206]: dhcpcd not running
+dhcpcd[22212]: dhcpcd not running
+dhcpcd[22221]: dhcpcd not running
+dhcpcd[22227]: dhcpcd not running
+dhcpcd[22235]: dhcpcd not running
+dhcpcd[28954]: dhcpcd not running
+dhcpcd[28959]: dhcpcd not running
+dhcpcd[28965]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[29131]: dhcpcd not running
+dhcpcd[29137]: dhcpcd not running
+dhcpcd[29683]: dhcpcd not running
+dhcpcd[29689]: dhcpcd not running
+dhcpcd[29694]: dhcpcd not running
+dhcpcd[29700]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[29872]: dhcpcd not running
+dhcpcd[29879]: dhcpcd not running
+dhcpcd[29886]: dhcpcd not running
+dhcpcd[31443]: dhcpcd not running
+dhcpcd[31448]: dhcpcd not running
+dhcpcd[31454]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[31623]: dhcpcd not running
+dhcpcd[31630]: dhcpcd not running
+dhcpcd[31637]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[4344]: dhcpcd not running
+dhcpcd[4352]: dhcpcd not running
+dhcpcd[4361]: dhcpcd not running
+dhcpcd[7062]: dhcpcd not running
+dhcpcd[7067]: dhcpcd not running
+dhcpcd[7073]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[7275]: dhcpcd not running
+dhcpcd[7281]: dhcpcd not running
+dhcpcd[7288]: dhcpcd not running
+dhcpcd[7295]: dhcpcd not running
+dhcpcd[7301]: dhcpcd not running
+dhcpcd[13856]: dhcpcd not running
+dhcpcd[13861]: dhcpcd not running
+dhcpcd[13867]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[14057]: dhcpcd not running
+dhcpcd[14066]: dhcpcd not running
+dhcpcd[14073]: dhcpcd not running
+dhcpcd[25078]: dhcpcd not running
+dhcpcd[25092]: dhcpcd not running
+dhcpcd[25098]: dhcpcd not running
+dhcpcd[25105]: dhcpcd not running
+kernel: iwl3945 0000:0c:00.0: Hardware error detected.  Restarting.
+kernel: iwl3945 0000:0c:00.0: Not valid error log pointer 0x00000000
+kernel: iwl3945 0000:0c:00.0: Invalid event log pointer 0x00000000
+kernel: iwl3945 0000:0c:00.0: BSM uCode verification failed at addr 0x00003800+0 (of 900), is 0xa5a5a5a2, s/b 0xf802020
+kernel: iwl3945 0000:0c:00.0: Wait for START_ALIVE timeout after 2000ms.
+dhcpcd[8994]: dhcpcd not running
+dhcpcd[9005]: dhcpcd not running
+dhcpcd[9011]: dhcpcd not running
+dhcpcd[9018]: dhcpcd not running
+dhcpcd[9027]: timed out
+dhcpcd[9039]: dhcpcd not running
+dhcpcd[9056]: dhcpcd not running
+dhcpcd[9063]: dhcpcd not running
+dhcpcd[9069]: dhcpcd not running
+dhcpcd[9075]: dhcpcd not running
+dhcpcd[9083]: timed out
+dhcpcd[9195]: dhcpcd not running
+dhcpcd[9212]: dhcpcd not running
+dhcpcd[9219]: dhcpcd not running
+dhcpcd[9225]: dhcpcd not running
+dhcpcd[9231]: dhcpcd not running
+dhcpcd[9236]: dhcpcd not running
+dhcpcd[9242]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+kernel: sd 4:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 4:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 4:0:0:0: [sdb] Assuming drive cache: write through
+dhcpcd[9704]: dhcpcd not running
+dhcpcd[9711]: dhcpcd not running
+kernel: sd 5:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 5:0:0:0: [sdb] Assuming drive cache: write through
+kernel: sd 5:0:0:0: [sdb] Assuming drive cache: write through
+dhcpcd[12036]: dhcpcd not running
+dhcpcd[12041]: dhcpcd not running
+dhcpcd[12047]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[12240]: dhcpcd not running
+dhcpcd[12273]: dhcpcd not running
+dhcpcd[12280]: dhcpcd not running
+kernel: ata4.01: failed to resume link (SControl 0)
+dhcpcd[4348]: dhcpcd not running
+dhcpcd[4357]: dhcpcd not running
+dhcpcd[4364]: dhcpcd not running

@@ -8,7 +8,7 @@ $filename = "test.txt";
      while (list($var, $val) = each($filearray)) {
          ++$var;
          $val = trim($val);
-         print "Line $var: $val<br />";
+         print "Line $var: $val\n";
      }
   } else {
      print "Could not open $filename.\n";

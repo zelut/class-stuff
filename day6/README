@@ -12,4 +12,28 @@ fread2.php
 fgets.php
 
 http://xkcd.com/131/
+file-put-contents.php
+fwrite.php
+rename.php
+copy.php
+unlink.php
+file-exists.php
+filetime.php
+pathinfo.php
+
+
+/srv/http/upload1.php
+/srv/http/upload2.php
+/srv/http/is-uploaded-file.php
+/srv/http/is-uploaded-file2.php
+flock.php
+* permissions quick intro *
+is_readable()
+is_writeable()
+is_executable()
+is_file()
+is_dir()
+chmod.php
+remote.php
+checksum.php
 
