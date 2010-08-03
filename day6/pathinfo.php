@@ -1,6 +1,6 @@
 <?php
 
-$filename = "some-file.txt";
+$filename = "/srv/http/upload1.php";
 
 $fileinfo = pathinfo($filename);
 var_dump($fileinfo);
