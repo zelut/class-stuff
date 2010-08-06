@@ -1,11 +1,18 @@
 <?php
 
-if (!empty($_GET['name'])) {
-    print "Your name: {$_GET['name']}<br />";
-    print "Your password: {$_GET['password']}<br />";
+if (is_writeable('archive.txt')) {
+    $filename = 'archive.txt';
 } else {
-    print "Your name: {$_POST['name']}<br />";
-    print "Your password: {$_POST['password']}<br />";
-} 
+    $filename = '/tmp/archive.txt';
+}
+
+$fh = fopen($filename,"at") or die("EPIC FAIL AT OPEN!");
+$numbytes = fwrite($fh, "{$_POST['shit']}<br />") or die("EPIC FAIL AT WRITE");
+fclose($fh);
+
+$filearray = file($filename);
+$random = array_rand($filearray);
+print $random;
+print $filearray[$random] ."<br />";
 
 ?>
