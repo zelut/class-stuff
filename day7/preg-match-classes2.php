@@ -1,6 +1,6 @@
 <?php
 
-if (preg_match("/[^a-z]esting/", "100000testing")) {
+if (preg_match("/[^a-z]esting/", "Testing")) {
     print "Got match!\n";
 } else {
     print "Doesn't match.\n";
