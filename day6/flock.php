@@ -1,14 +1,17 @@
 <?php
 
+$filename = 'test.txt';
+
+// open it for WRITING ("w")
 $handle = fopen( $filename, "w");
-// open it for WRITING ("w")     
  
 if (flock($handle, LOCK_EX)) {
-    // do your file writes here
-    flock($handle, LOCK_UN);   
-    // unlock the file         
-} else {                       
-    // flock() returned false, no lock obtained
-    print "Could not lock $filename!\n";       
+    print "Exclusive Lock (LOCK_EX) successful!\n";
+    print "...\n";
+    flock($handle, LOCK_UN);
+    print "Lock Release (LOCK_UN) successful!\n";
+} else {
+    print "Could not lock $filename!\n";
+}
 
 ?>

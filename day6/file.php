@@ -1,6 +1,6 @@
 <?php
 
-$filename = "test.txt";
+$filename = 'test.txt';
  
   $filearray = file($filename);
  
