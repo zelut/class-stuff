@@ -11,7 +11,7 @@ $message->setTXTBody($text);
 $message->setHTMLBody($html);
 $message->addAttachment("git-cheat-sheet.pdf");
 $body = $message->get();
-$extraheaders = array("From"=>"noreply@zelut.org", "Subject"=>"Test Email");
+$extraheaders = array("From"=>"christer.edwards@gmail.com", "Subject"=>"Test Email");
 $headers = $message->headers($extraheaders);
  
 $mail = Mail::factory("mail");

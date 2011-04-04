@@ -2,7 +2,7 @@
 
 $filename = 'test.txt';
 
-$filestring = file_get_contents($filename);
+$filestring = @file_get_contents($filename);
 
 if ($filestring) {
         print $filestring;

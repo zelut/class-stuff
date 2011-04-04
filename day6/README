@@ -25,7 +25,6 @@ pathinfo.php
 /srv/http/upload1.php
 /srv/http/upload2.php
 /srv/http/is-uploaded-file.php
-/srv/http/is-uploaded-file2.php
 flock.php
 * permissions quick intro *
 is_readable()
