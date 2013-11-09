@@ -33,6 +33,6 @@ is_executable()
 is_file()
 is_dir()
 chmod.php
-remote.php
+remote-fopen.php
 checksum.php
 

@@ -3,7 +3,7 @@
 $fh_flowers = fopen("kinds_of_flowers.txt", "r")
     or die("Can't open flowers file!\n");     
  
-$fh_logfile = fopen("application.log", "w")    
+$fh_logfile = fopen("application.log", "a")    
     or die("Log file not writeable!\n");
 
 ?>

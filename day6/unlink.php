@@ -1,8 +1,8 @@
 <?php
 
-$filename = "some-file.txt";
+$filename = "some-new-file.txt";
 
-if (unlink($filename)) {
+if (@unlink($filename)) {
     print "Deleted $filename!\n";
 } else {                         
     print "Delete of $filename failed!\n";
